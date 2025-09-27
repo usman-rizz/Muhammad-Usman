@@ -36,9 +36,10 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 
 ## 📊 GitHub Stats  
 
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-rizz&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizz&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usman-rizz&theme=radical)  
+
 
 ---
 
