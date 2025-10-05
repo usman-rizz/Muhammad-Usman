@@ -38,7 +38,7 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 
 ![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-rizz&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizz&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usman-rizz&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=usman-rizz&theme=radical)
 
 
 ---
