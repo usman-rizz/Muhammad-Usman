@@ -42,7 +42,6 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 ![GitHub Streak](https://streak-stats.demolab.com?user=usman-rizz&theme=radical)
 
 
-
 ---
 
 ## 🌐 Connect With Me  
