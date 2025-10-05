@@ -41,6 +41,16 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizz&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=usman-rizz&theme=radical)
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usman-rizz&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizz&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=usman-rizz&theme=radical" alt="GitHub Streak"/>
+</p>
 
 
 ---
