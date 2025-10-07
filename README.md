@@ -34,7 +34,7 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 
 ---
 
-### 🏆 Top Contributed Repositories  
+## 🏆 Top Contributed Repositories  
 
 <p align="center">
   <a href="https://github.com/usman-rizz/Introduction-to-Git-and-GitHub">
