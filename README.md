@@ -34,6 +34,12 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 
 ---
 
+### 🏆 Top Contributed Repositories
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=Introduction-to-Git-and-GitHub&theme=tokyonight)](https://github.com/usman-rizz/Introduction-to-Git-and-GitHub)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=Python-Data-Analysis&theme=tokyonight)](https://github.com/usman-rizz/Numpy)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=SQL-Structured-Query-Language&theme=tokyonight)](https://github.com/usman-rizz/ETL-MiniProject-Banks-MarketCap-)
+
 
 ## 📊 GitHub Stats  
 
