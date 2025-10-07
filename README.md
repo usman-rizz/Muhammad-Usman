@@ -34,11 +34,20 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 
 ---
 
-### 🏆 Top Contributed Repositories
+### 🏆 Top Contributed Repositories  
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=Introduction-to-Git-and-GitHub&theme=tokyonight)](https://github.com/usman-rizz/Introduction-to-Git-and-GitHub)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=Python-Data-Analysis&theme=tokyonight)](https://github.com/usman-rizz/Numpy)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=SQL-Structured-Query-Language&theme=tokyonight)](https://github.com/usman-rizz/ETL-MiniProject-Banks-MarketCap-)
+<p align="center">
+  <a href="https://github.com/usman-rizz/Introduction-to-Git-and-GitHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=Introduction-to-Git-and-GitHub&theme=github_dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/usman-rizz/Numpy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=Numpy&theme=github_dark&hide_border=false" />
+  </a>
+  <a href="https://github.com/usman-rizz/ETL-MiniProject-Banks-MarketCap-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usman-rizz&repo=ETL-MiniProject-Banks-MarketCap-&theme=github_dark&hide_border=false" />
+  </a>
+</p>
+
 
 
 ## 📊 GitHub Stats  
