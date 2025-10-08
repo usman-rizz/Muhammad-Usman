@@ -1,4 +1,4 @@
-# 👨‍💻 About Me  
+## 👨‍💻 About Me  
 
 > *"Data is the new oil, but insight is the real power."* 
 
@@ -58,23 +58,15 @@ I enjoy **transforming raw data into meaningful insights** and building solution
     <img src="https://github-readme-stats.vercel.app/api?username=usman-rizz&show_icons=true&theme=radical&hide_border=true" alt="Usman's GitHub stats" />
   </a>
 </p>
+ 
 
-
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streaks  
 
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img 
-      src="https://streak-stats.demolab.com?user=usman-rizz&theme=tokyonight-duo&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" 
-      alt="GitHub Streak" 
-      width="90%" 
-      style="border-radius:15px; box-shadow:0px 0px 10px rgba(0,0,0,0.3);" 
-    />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=usman-rizz&theme=highcontrast&ring=FFA500&fire=FF4500&currStreakLabel=FFA500&sideLabels=FFA500&dates=CCCCCC&background=0D1117&border=30363D&stroke=FF6B00&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
-
-
-
 
 
 ## 📊 Top Languages
