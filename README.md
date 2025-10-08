@@ -65,8 +65,6 @@ I enjoy **transforming raw data into meaningful insights** and building solution
   </a>
 </p>
 
-## 🔥 GitHub Streak  
-
 <p align="center">
   <a href="https://github.com/usman-rizz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
