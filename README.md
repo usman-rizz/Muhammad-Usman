@@ -60,16 +60,9 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 </p>
  
 
-## 🔥 GitHub Streaks  
+## 🔥 GitHub Streaks
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=usman-rizz&theme=highcontrast&ring=FFA500&fire=FF4500&currStreakLabel=FFA500&sideLabels=FFA500&dates=CCCCCC&background=0D1117&border=30363D&stroke=FF6B00&hide_border=false&v=2" 
-      alt="Muhammad Usman's GitHub Streak"
-    />
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=usman-rizz&theme=dark&border_radius=4.4)](https://git.io/streak-stats)
 
 
 ## 📊 Top Languages
