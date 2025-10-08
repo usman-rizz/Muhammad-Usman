@@ -1,6 +1,6 @@
 # 👨‍💻 About Me  
 
-> *"Data is the new oil, but insight is the real power."*  
+> *"Data is the new oil, but insight is the real power."* 
 
 Hi, I’m **Muhammad Usman** 👋
 
