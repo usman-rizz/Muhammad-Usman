@@ -59,10 +59,11 @@ I enjoy **transforming raw data into meaningful insights** and building solution
   </a>
 </p>
 
-
+## 🔥 GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=usman-rizz&theme=dark&border_radius=4.4)](https://git.io/streak-stats)
 
 
+## 📊 Top Languages
 <p align="center">
   <a href="https://github.com/usman-rizz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
