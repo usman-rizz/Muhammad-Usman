@@ -59,11 +59,9 @@ I enjoy **transforming raw data into meaningful insights** and building solution
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/usman-rizz">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=usman-rizz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=usman-rizz&theme=dark&border_radius=4.4)](https://git.io/streak-stats)
+
 
 <p align="center">
   <a href="https://github.com/usman-rizz">
