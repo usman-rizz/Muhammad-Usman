@@ -51,17 +51,26 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 </p>
 
 
+## 📊 GitHub Analytics  
 
-## 📊 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/usman-rizz">
+    <img src="https://github-readme-stats.vercel.app/api?username=usman-rizz&show_icons=true&theme=radical&hide_border=true" alt="Usman's GitHub stats" />
+  </a>
+</p>
 
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-rizz&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizz&layout=compact&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=usman-rizz&theme=radical&hide_border=true)
+<p align="center">
+  <a href="https://github.com/usman-rizz">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=usman-rizz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/usman-rizz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-rizz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
-## 📊 GitHub Streaks  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=usman-rizz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
