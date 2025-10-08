@@ -63,9 +63,10 @@ I enjoy **transforming raw data into meaningful insights** and building solution
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=usman-rizz&theme=dark&border_radius=4.4&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="usman-rizz GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app?user=usman-rizz&theme=dark&hide_border=true&border_radius=4.4&date_format=M%20j%5B%2C%20Y%5D" alt="usman-rizz GitHub Streak" />
   </a>
 </p>
+
 
 
 
