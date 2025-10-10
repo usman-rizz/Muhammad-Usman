@@ -1,4 +1,4 @@
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
 > *"Data is the new oil, but insight is the real power."* 
 
